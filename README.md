@@ -3,7 +3,7 @@
 This project is a demonstration of how to build a **guardrail-protected AI assistant** using the `agents` framework and OpenAI-compatible models (like **Gemini 2.5 Flash**). It applies both **input** and **output** guardrails to manage allowed content in a user query and model response.
 
 --- 
-  
+   
 ## 📌 Features    
 
 - ✅ Detects whether a user query is related to **math** (Input Guardrail)
@@ -42,6 +42,7 @@ This project is a demonstration of how to build a **guardrail-protected AI assis
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+
 
 
 
