@@ -4,7 +4,7 @@ This project is a demonstration of how to build a **guardrail-protected AI assis
 
 --- 
    
-## 📌 Features    
+## 📌 Features     
 
 - ✅ Detects whether a user query is related to **math** (Input Guardrail)
 - ⚠️ Flags or blocks **political content** in responses (Output Guardrail)
@@ -42,6 +42,7 @@ This project is a demonstration of how to build a **guardrail-protected AI assis
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+
 
 
 
