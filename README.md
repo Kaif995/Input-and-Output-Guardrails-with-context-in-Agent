@@ -40,8 +40,9 @@ This project is a demonstration of how to build a **guardrail-protected AI assis
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Kaif995/Input-and-Output-Guardrails-with-context-in-Agent.git
+cd Input-and-Output-Guardrails-with-context-in-Agent
+
 
 
 
