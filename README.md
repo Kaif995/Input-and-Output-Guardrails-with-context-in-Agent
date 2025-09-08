@@ -12,7 +12,7 @@ This project is a demonstration of how to build a **guardrail-protected AI assis
 - 🚦 Integrated guardrail architecture using `agents`
 - 🔐 Environment-configured API keys and base URLs
 
----
+--- 
 
 ## 🏗️ How It Works
 
@@ -42,6 +42,7 @@ This project is a demonstration of how to build a **guardrail-protected AI assis
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+
 
 
 
